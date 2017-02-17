@@ -1,5 +1,5 @@
 # starter-node
-Starter Template with Angular JS and Gulp
+Starter Project with Angular JS and Node JS
 
 ## requirements
 - Gulp
